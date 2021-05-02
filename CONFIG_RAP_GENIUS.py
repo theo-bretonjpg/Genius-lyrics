@@ -1,0 +1,3 @@
+client_id="ENTER CLIENT ID FOUND IN GENIUS WEBSITE"
+redirect_link=""
+client_access_token="ENTER CLIENT ACCESS TOKEN FOUND IN GENIUS WEBSITE"
