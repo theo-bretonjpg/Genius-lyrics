@@ -1,8 +1,8 @@
 #-------------------------------------------------------------------------------------------
-# Fonction : Code qui permet de recuperer tout les lyrics d'un artistes present sur Genius 
-# 		     utilise un fichier de configuration pour le client id, token,
-# Entree   : nom de m'artiste
-# Sortie   : tout les tracks et lyrics de l'artiste
+# Fonction : Code qui permet de recuperer tout les lyrics d'un artiste present sur le site Genius 
+#            utilise un fichier de configuration pour le client id et le token
+# Entree   : Nom de l'artiste
+# Sortie   : Tous les tracks et lyrics de l'artiste
 # Auteur   : Theo Breton
 # date     : 4/29/2021
 # Version  : V3
